@@ -1,9 +1,11 @@
 .page {
-    background-color: #2A2C2F;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    font-family: Inter, Arial, sans-serif;
-    font-weight: 400;
-    color: #fff;
+  background-color: #2A2C2F;
+  display: flex;
+  flex-direction: column;
+  font-family: Inter, Arial, sans-serif;
+  font-weight: 400;
+  color: #fff;
+  /* рендеринг шрифтов */
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
 }
