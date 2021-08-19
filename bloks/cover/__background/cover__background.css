@@ -1,0 +1,13 @@
+.cover__background {
+  width: 92.5%;
+  background-image: url(../../../images/cover-trains.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  position: relative;
+  left: 3.75%;
+}
+
+.cover__background:hover {
+  background: rgba(0, 0, 0, 0.055);
+}

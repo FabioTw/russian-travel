@@ -1,3 +1,6 @@
 .place__paragraph {
-  grid-area: paragrah;
+  width: 484px;
+  margin: 0 0 26px;
+  font-size: 18px;
+  line-height: 29.34px;
 }
