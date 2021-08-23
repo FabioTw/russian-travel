@@ -3,3 +3,9 @@
   flex-direction: column;
   margin-bottom: 80px;
 }
+
+@media screen and (max-width: 767px) {
+  .place {
+    display: inline;
+  }
+}

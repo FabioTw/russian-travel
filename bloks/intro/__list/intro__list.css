@@ -2,4 +2,17 @@
   font-size: 12px;
   line-height: 18px;
   margin: 0;
+  transition: .5s;
+}
+
+@media screen and (max-width: 1023px) {
+  .intro__list {
+    width: 720px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .intro__list{
+    width: 288px;
+  }
 }

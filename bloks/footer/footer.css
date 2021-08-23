@@ -5,3 +5,16 @@
   justify-content: space-between;
   margin: 0 auto 24px;
 }
+
+@media screen and (max-width: 1023px) {
+  .footer {
+      width: 93.75%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .footer {
+      width: 90%;
+      display: inline;
+  }
+}
