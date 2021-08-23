@@ -21,6 +21,7 @@
 Все картинки находятся в Фигме
 
 **GitHub-Pages**
-*[Ссылка на страницу в GitHub-Pages](https://fabiotw.github.io/russian-travel/index.html)
+
+* [Ссылка на страницу в GitHub-Pages](https://fabiotw.github.io/russian-travel/index.html)
 
 
