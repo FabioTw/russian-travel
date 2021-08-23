@@ -1,3 +1,6 @@
 .intro__definition {
   font-weight: 400;
+  display: inline-block;
+  margin: 0;
 }
+

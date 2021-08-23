@@ -1,9 +1,9 @@
-.place__firs-row {
+.place__down-row {
   display: flex;
 }
 
 @media screen and (max-width: 767px) {
-  .place__firs-row {
+  .place__down-row {
     flex-direction: column;
   }
 }
