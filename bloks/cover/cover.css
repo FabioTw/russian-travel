@@ -1,5 +1,10 @@
 .cover {
-  display: flex;
-  flex-direction: column;
-  position: relative;
+  margin: 0 auto 92px;
+  max-width: 1184px;
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  .cover {
+    max-width: 100%;
+  }
 }

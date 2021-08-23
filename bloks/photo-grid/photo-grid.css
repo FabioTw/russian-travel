@@ -4,4 +4,13 @@
   display: grid;
   grid-template-columns: repeat(4, 284px);
   grid-gap: 16px;
+  transition: .5s;
+}
+
+@media screen and (max-width: 1279px) {
+  .photo-grid {
+    max-width: 928px;
+    grid-template-columns: repeat(3, 300px);
+    grid-gap: 14px;
+  }
 }
