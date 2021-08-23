@@ -4,24 +4,24 @@
   letter-spacing: 1.5px;
   text-transform: uppercase;
   width: 984px;
-  margin: 0 auto;
+  margin: 8px auto 0;
   transition: .5s;
 }
 
 @media screen and (max-width: 1279px) {
   .lead__caption {
-    width: 928px;
+    max-width: 928px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .lead__caption {
-    width: 720px;
+    max-width: 720px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .lead__caption {
-    width: 288px;
+    max-width: 288px;
   }
 }
