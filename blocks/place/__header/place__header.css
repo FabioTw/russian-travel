@@ -1,0 +1,9 @@
+.place__header {
+  display: flex;
+}
+
+@media screen and (max-width: 767px) {
+  .place__header {
+    flex-direction: column;
+  }
+}

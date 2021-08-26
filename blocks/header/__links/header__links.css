@@ -1,0 +1,13 @@
+.header__links {
+  display: flex;
+  align-items: flex-end;
+  list-style-type: none; 
+  margin: 0 0 3px;
+  padding: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .header__links {
+    margin: 0 0 5px;
+  }
+}
